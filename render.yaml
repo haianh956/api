@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: abyssal-hub-api
+    name: kairos-hub-api
     runtime: python
     region: singapore
     plan: free
